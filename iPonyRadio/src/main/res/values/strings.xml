@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">iPonyRadio</string>
+    <string name="action_stationselect">Select Station</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_station_select">StationSelect</string>
+    <string name="title_activity_main_player">MainPlayer</string>
+    <string name="title_activity_player_main">PlayerMain</string>
+	
+    <string name="ponyfeather">http://radio.ponyvillelive.com:8026/stream</string>
+	
+    <string name="everfree320">http://96.47.231.100:8000/stream/2/</string>
+    <string name="everfree128">http://96.47.231.100:8000/stream/1/</string>
+    <string name="everfree80">http://96.47.231.100:8000/stream/3/</string>
+	
+    <string name="fillydelphia320">http://fillyradio.com:8004/</string>
+    <string name="fillydelphia128">http://listen.fillyradio.com:8000/</string>
+    <string name="fillydelphia64">http://fillyradio.com:9998/</string>
+	
+    <string name="ponyvillefmSQ">http://198.211.99.242:8014/stream2</string>
+    <string name="ponyvillefmHQ">http://198.211.99.242:8014/stream</string>
+	
+	<string name="lunaradio64">http://198.211.99.242:8002/maac</string>
+	<string name="lunaradio128">http://mane.lunaloves.us:8002/stream</string>
+	
+	<string name="alicornradio">http://198.211.99.242:8008/stream</string>
+	
+	<string name="sonicradioboom">http://198.211.99.242:8020/stream</string>
+	
+    <string name="fracturedfrequencies">http://198.211.99.242:8032/stream</string>
+	
+	<string name="bronyradio">http://dj.bronyradio.com:8000</string>
+	
+	<string name="everypony">http://76.73.96.50:8071</string>
+	
+</resources>

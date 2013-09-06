@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/iPonyRadio/iPonyRadio.iml" filepath="$PROJECT_DIR$/iPonyRadio/iPonyRadio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iPonyRadioProject.iml" filepath="$PROJECT_DIR$/iPonyRadioProject.iml" />
+    </modules>
+  </component>
+</project>
+

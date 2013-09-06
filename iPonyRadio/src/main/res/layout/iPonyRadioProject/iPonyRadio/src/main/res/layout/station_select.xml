@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+
+    <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="100dp"
+            android:id="@+id/everfree"
+            android:src="@drawable/everfree"
+            android:scaleType="fitCenter"
+            android:layout_above="@+id/fillydelphia"
+            android:layout_alignLeft="@+id/ponyfeather"
+            android:layout_alignRight="@+id/ponyfeather"/>
+
+    <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="100dp"
+            android:id="@+id/ponyfeather"
+            android:src="@drawable/ponyfeather"
+            android:scaleType="fitCenter"
+            android:layout_below="@+id/textView"
+            android:layout_centerHorizontal="true"/>
+
+    <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="100dp"
+            android:id="@+id/fillydelphia"
+            android:src="@drawable/fillydelphia"
+            android:scaleType="fitCenter"
+            android:layout_above="@+id/ponyvillefm"
+            android:layout_alignLeft="@+id/everfree"
+            android:layout_alignRight="@+id/everfree"/>
+
+    <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="100dp"
+            android:id="@+id/ponyvillefm"
+            android:src="@drawable/ponyvillefm"
+            android:scaleType="fitCenter"
+            android:layout_alignParentStart="true"
+            android:maxWidth="200dp"
+            android:layout_alignParentBottom="true"
+            android:layout_alignRight="@+id/fillydelphia"
+            android:layout_alignLeft="@+id/fillydelphia"/>
+
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Featured Station"
+            android:id="@+id/textView"
+            android:textSize="25dp"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"/>
+
+</RelativeLayout>
